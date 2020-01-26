@@ -1,5 +1,5 @@
 <?php
-$calender_2018 = {
+$calender_2018 = [
   "January" => "1月",
   "February" => "2月",
   "March" => "3月",
@@ -12,7 +12,7 @@ $calender_2018 = {
   "October" => "10月",
   "November" => "11月",
   "December" => "12月"
-};
+];
 
 // 12月を表示する
 echo $calender_2018[December];
