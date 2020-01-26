@@ -1,4 +1,4 @@
-$2018_calender = {
+$calender_2018 = {
   "January" => "1月",
   "February" => "2月",
   "March" => "3月",
@@ -14,4 +14,4 @@ $2018_calender = {
 };
 
 // 12月を表示する
-echo $2018_calender[December];
+echo $calender_2018[December];
